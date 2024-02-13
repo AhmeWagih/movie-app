@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![movie-app](https://github.com/AhmeWagih/movie-app/assets/113104074/fc4026c7-cd2f-4f75-b5d8-b6c6bf4c06f3)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
